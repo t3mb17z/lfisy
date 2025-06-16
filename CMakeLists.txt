@@ -8,7 +8,7 @@ set(PROJECT lfisy)
 project(${PROJECT} VERSION 1)
 
 # Path for installation
-set(PREFIX /data/data/com.termux/files/usr/lib)
+set(PREFIX /usr/local/lib)
 set(LUA_DIR lua/5.4)
 
 # Sources for lfisy

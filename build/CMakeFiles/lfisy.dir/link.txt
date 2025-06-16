@@ -1,1 +1,0 @@
-/data/data/com.termux/files/usr/bin/cc -fPIC -O2 -g -DNDEBUG -Xlinker --dependency-file=CMakeFiles/lfisy.dir/link.d -shared -Wl,-soname,lfisy.so -o lfisy.so CMakeFiles/lfisy.dir/src/lfisy.c.o CMakeFiles/lfisy.dir/src/file.c.o
